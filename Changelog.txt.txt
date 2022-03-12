@@ -1,2 +1,4 @@
 Version 1
-
+	Consistency
+		The intro text (in the country selection screen) for Epirus states it's difficulty is now 'Normal' instead of 'Medium'.
+	
