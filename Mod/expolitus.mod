@@ -3,4 +3,4 @@ tags={
 	"Overhaul"
 }
 name="Expolitus"
-path="/mod/expolitus"
+path="mod/expolitus"
