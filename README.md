@@ -7,4 +7,4 @@ If you see bugs, report them
 
 Contributors:
 
-Vroobel
+Vroobel aka Borsook
