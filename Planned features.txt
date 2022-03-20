@@ -1,0 +1,28 @@
+Here are things that would be cool to have:
+
+BUGFIXES
+========
+
+Outliner bug can't unselect wars without unselecting diplomacy.
+
+
+INTERFACE QOL
+=============
+
+The victory screen is not clear enough on who won the battle (make it so it's visible who did at first glance)
+The icons on the army screen should be colored (yellow and red ) when clickable and grey and blue when not.
+-Special trait border for personality, military, health, status (different shapes?)
+-Add alert when overpopulation in province
+-Add alert when free investment is avaible
+
+GAMEPLAY 
+========
+
+You can loot your own cities in a civil was or when reconquering
+
+FLAVOUR
+=======
+
+Add unique heritages that are flavourfull with description etc.
+
+
